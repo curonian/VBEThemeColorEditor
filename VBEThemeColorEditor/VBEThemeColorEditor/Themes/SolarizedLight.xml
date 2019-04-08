@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--//
+Description: Famous Solarized theme's (by Ethan Schoonover) colors in the VBE Editor
+//-->
+<VbeTheme name="Solarized light" desc="Solarized light theme">
+	<ThemeColors>
+		<Color colorID="1" HexColor="002B36" />
+		<Color colorID="2" HexColor="073642" />
+		<Color colorID="3" HexColor="586E75" />
+		<Color colorID="4" HexColor="657B83" />
+		<Color colorID="5" HexColor="839496" />
+		<Color colorID="6" HexColor="93A1A1" />
+		<Color colorID="7" HexColor="EEE8D5" />
+		<Color colorID="8" HexColor="FDF6E3" />
+		<Color colorID="9" HexColor="B58900" />
+		<Color colorID="10" HexColor="CB4B16" />
+		<Color colorID="11" HexColor="DC322F" />
+		<Color colorID="12" HexColor="D33682" />
+		<Color colorID="13" HexColor="6C71C4" />
+		<Color colorID="14" HexColor="268BD2" />
+		<Color colorID="15" HexColor="2AA198" />
+		<Color colorID="16" HexColor="859900" />
+	</ThemeColors>
+</VbeTheme>
